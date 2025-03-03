@@ -34,7 +34,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/abhinav-credit-risk-model.git
+git clone https://github.com/Abhinav-Khandelwal01/abhinav-credit-risk-model.git
 cd abhinav-credit-risk-model
 2️⃣ Install Dependencies
 bash
